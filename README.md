@@ -14,7 +14,7 @@ Follow the instructions below to set up and run the application on your local ma
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abhishekolympics/Node-Take-Home-Test-Abhishek-Kumar-Singh.git
    ```
 2. Navigate to the project directory:
    ```bash
