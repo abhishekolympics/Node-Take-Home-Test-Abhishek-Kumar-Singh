@@ -18,7 +18,7 @@ Follow the instructions below to set up and run the application on your local ma
    ```
 2. Navigate to the project directory:
    ```bash
-   cd betacrew_exchange_server
+   cd Node-Take-Home-Test-Abhishek-Kumar-Singh
    ```
 
 ### Running the Application
